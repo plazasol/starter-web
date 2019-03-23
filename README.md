@@ -9,7 +9,8 @@ add
 
 ## Purpose
 
-add
+add 
+add purpose
 Sample website with plenty of files for demos
 
 ## Deployment
