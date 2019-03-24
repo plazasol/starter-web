@@ -1,5 +1,8 @@
 # Starter Web Repo
 
+## add a new section
+motivation
+
 This is a simpel web site rpoject 
 ## Introduction
 
