@@ -4,9 +4,12 @@
 # TEAM
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     Json SJLKJLKJLKJLKSjdfkljsdlkfj
 =======
     Json XJLJKLJLKFSDJlfjdslkjaflk:
+>>>>>>> simple-change
+=======
 >>>>>>> simple-change
 
 # THANKS
